@@ -1,0 +1,34 @@
+{
+    "RA2511033010093": {
+        "reg_no": "RA2511033010093",
+        "name": "ADITYA KUMAR SINGH",
+        "subject": "Advanced Python",
+        "fee": 1500.0,
+        "exam_type": "Regular Semester",
+        "is_supplementary": false
+    },
+    "RA2511033010094": {
+        "reg_no": "RA2511033010094",
+        "name": "VARUN VAIDYANATHAN",
+        "subject": "Database Systems",
+        "fee": 1200.0,
+        "exam_type": "Regular Semester",
+        "is_supplementary": false
+    },
+    "RA2511033010095": {
+        "reg_no": "RA2511033010095",
+        "name": "MANGALWEDHEKAR SARTHAK KEDAR",
+        "subject": "Computer Networks",
+        "fee": 1800.0,
+        "exam_type": "Regular Semester",
+        "is_supplementary": false
+    },
+    "RA25110330100131": {
+        "reg_no": "RA25110330100131",
+        "name": "Vivaan Ganeshkumar",
+        "subject": "Advanced Programming Practice",
+        "fee": 1200.0,
+        "exam_type": "Regular Semester",
+        "is_supplementary": false
+    }
+}
